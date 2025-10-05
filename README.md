@@ -114,7 +114,6 @@ The top section provides key retail performance metrics like Total Sales, Profit
 3. Use **Slicers** and **Filters** to explore insights dynamically.
 4. Optionally replace the dataset to visualize your own business data.
 
----
 
 ## 💼 About the Creator
 
