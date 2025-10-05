@@ -103,22 +103,26 @@ The top section provides key retail performance metrics like Total Sales, Profit
 
 ---
 
-## 🚀 How to Use  
+## 🚀 How to Use
 
-1. **Clone the repository**  
+1. **Clone the repository**
+
    ```bash
    git clone https://github.com/Mayank230604/Dynamic_Retail_Dashboard.git
-````
+   ```
 
 2. **Open** `Dashboard.xlsx` in Microsoft Excel.
-3. Use **Slicers** and **Filters** to explore insights dynamically.
-4. Optionally replace the dataset to visualize your own business data.
 
+3. Use **Slicers** and **Filters** to explore insights dynamically.
+
+4. Optionally, replace the dataset to visualize your own business data.
+
+---
 
 ## 💼 About the Creator
 
 👨‍💻 **[Mayank Adeva](https://github.com/Mayank230604)**
-A passionate **Data Enthusiast & Software Developer**, crafting powerful Excel solutions and analytical dashboards that convert data into decisions.
+A passionate **Data Enthusiast & Software Developer**, crafting powerful Excel solutions and analytical dashboards that convert data into actionable insights.
 
 > *“Data doesn’t speak — until you make it visual.”*
 
