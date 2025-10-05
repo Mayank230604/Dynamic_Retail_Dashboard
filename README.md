@@ -68,7 +68,12 @@ The top section provides key retail performance metrics like Total Sales, Profit
 
 ---
 
-## 📈 Insights Generated  
+### 📈 Yearly Sales Trend
+![Yearly Sales Trend](assets/yearly_sales_trend.png)
+
+---
+
+## 📌 Insights Generated  
 
 💡 **Technology** and **Office Supplies** emerge as the most profitable categories.  
 💡 The **Corporate Segment** contributes over half of total profit.  
